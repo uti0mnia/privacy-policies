@@ -8,3 +8,7 @@ stability issues (Crashlytics, Performance Monitoring) and why they're caused, w
 ability to swiftly fix them. The information  collected is anonymous. Dota Sidekick does not sell or rent your data, 
 and the anonymous information is only collected to help make 
 the app better.
+
+# Support
+
+Email uti0mnia@gmail.com for any questions or concerns.
